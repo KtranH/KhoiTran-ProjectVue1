@@ -12,7 +12,7 @@
           <div class="md:col-span-2">
             <div class="space-y-4">
               <div>
-                <h2 class="text-2xl font-semibold text-gray-800">Thông tin cá nhân</h2>
+                <h2 class="text-2xl font-semibold text-gray-800" data-aos="fade-up">Thông tin cá nhân</h2>
                 <p class="text-gray-600 mt-2">
                   Tôi là một lập trình viên web với niềm đam mê tạo ra những trải nghiệm người dùng tuyệt vời.
                   Tôi chuyên về phát triển frontend với Vue.js và các công nghệ hiện đại.
